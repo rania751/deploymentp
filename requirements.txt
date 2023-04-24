@@ -1,0 +1,9 @@
+Flask
+sklearn
+pandas
+seaborn
+pickle
+tensorflow
+numpy
+matplotlib
+gunicorn
